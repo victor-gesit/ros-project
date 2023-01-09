@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="vfi20_rosbot" type="start_robot.py" name="vfi20_rosbot_node" output="screen">
+    </node>
+</launch>
